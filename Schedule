@@ -1,0 +1,270 @@
+{
+	"schedule" : {
+		"week5":  {
+			"mondayType": ["math1"],
+			"mondayTime": [],
+			"tuesdayType": ["systemExploitation1-1"],
+			"tuesdayTime": [],
+			"wednesdayType": ["Algo1"],
+			"wednesdayTime": [],
+			"thursdayType": ["math1","systemExploitation1-2"],
+			"thursdayTime": [],
+			"fridayType": ["Algo2"],
+			"fridayTime": [],
+			"startingDate": ["2022","03","21"]
+		},
+		"week6":  {
+			"mondayType": ["math1"],
+			"mondayTime": [],
+			"tuesdayType": ["systemExploitation1-1"],
+			"tuesdayTime": [],
+			"wednesdayType": ["Algo1"],
+			"wednesdayTime": [],
+			"thursdayType": ["math1","systemExploitation1-2"],
+			"thursdayTime": [],
+			"fridayType": ["Algo2"],
+			"fridayTime": [],
+			"startingDate": ["2022","03","28"]
+		},
+		"week7":  {
+			"mondayType": ["math1"],
+			"mondayTime": [],
+			"mondayDuration": ["3"],
+			"tuesdayType": ["systemExploitation1-1"],
+			"tuesdayTime": [],
+			"wednesdayType": ["Algo1"],
+			"wednesdayTime": [],
+			"thursdayType": ["math1","systemExploitation1-2"],
+			"thursdayTime": [],
+			"fridayType": ["Algo2"],
+			"fridayTime": [],
+			"startingDate": ["2022","04","04"]
+		},
+		"week8":  {
+			"mondayType": ["math1"],
+			"mondayTime": [],
+			"mondayDuration": ["3"],
+			"tuesdayType": ["systemExploitation1-1"],
+			"tuesdayTime": [],
+			"wednesdayType": ["Algo1"],
+			"wednesdayTime": ["1649885400"],
+			"thursdayType": ["math1","systemExploitation1-2"],
+			"thursdayTime": [],
+			"fridayType": [],
+			"fridayTime": [],
+			"startingDate": ["2022","04","11"]
+		},
+		"week9":  {
+			"mondayType": [],
+			"mondayTime": [],
+			"tuesdayType": ["systemExploitation1-1"],
+			"tuesdayTime": [],
+			"wednesdayType": ["Algo1"],
+			"wednesdayTime": ["1650490200"],
+			"thursdayType": ["math1","systemExploitation1-2"],
+			"thursdayTime": [],
+			"fridayType": ["Algo2"],
+			"fridayTime": [],
+			"startingDate": ["2022","04","18"]
+		},
+		"week10":  {
+			"mondayType": ["math1"],
+			"mondayTime": [],
+			"mondayDuration": ["2"],
+			"tuesdayType": ["systemExploitation1-1"],
+			"tuesdayTime": [],
+			"wednesdayType": ["Algo1"],
+			"wednesdayTime": [],
+			"thursdayType": ["math1","systemExploitation1-2"],
+			"thursdayTime": [],
+			"fridayType": ["Algo2"],
+			"fridayTime": ["1651266000"],
+			"startingDate": ["2022","04","25"]
+		},
+		"week11":  {
+			"mondayType": ["ConceptBaseDonnee"],
+			"mondayTime": [],
+			"mondayDuration": [],
+			"tuesdayType": ["ConceptBaseDonnee"],
+			"tuesdayTime": [],
+			"wednesdayType": ["systemExploitation2"],
+			"wednesdayTime": [],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": ["systemExploitation2"],
+			"fridayTime": [],
+			"startingDate": ["2022","05","02"]
+		},
+		"week12":  {
+			"mondayType": ["ConceptBaseDonnee"],
+			"mondayTime": [],
+			"mondayDuration": ["5"],
+			"tuesdayType": ["ConceptBaseDonnee"],
+			"tuesdayTime": [],
+			"tuesdayDuration": ["5"],
+			"wednesdayType": ["systemExploitation2"],
+			"wednesdayTime": [],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": ["ProgObject"],
+			"fridayTime": [],
+			"startingDate": ["2022","05","09"]
+		},
+		"week13":  {
+			"mondayType": ["ConceptBaseDonnee"],
+			"mondayTime": [],
+			"mondayDuration": [],
+			"mondayDuration": ["5"],
+			"tuesdayType": ["ConceptBaseDonnee"],
+			"tuesdayTime": [],
+			"tuesdayDuration": ["5"],
+			"wednesdayType": ["systemExploitation2"],
+			"wednesdayTime": [],
+			"thursdayType": ["ConceptBaseDonnee"],
+			"thursdayTime": [],
+			"thursdayDuration": ["5"],
+			"fridayType": ["systemExploitation2"],
+			"fridayTime": [],
+			"startingDate": ["2022","05","16"]
+		},
+		"week14":  {
+			"mondayType": [],
+			"mondayTime": [],
+			"mondayDuration": [],
+			"tuesdayType": ["ProgObject"],
+			"tuesdayTime": [],
+			"wednesdayType": ["ConceptBaseDonnee","systemExploitation2"],
+			"wednesdayDuration": ["1.5"],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": ["ConceptBaseDonnee","systemExploitation2"],
+			"fridayDuration": ["1.5"],
+			"startingDate": ["2022","05","23"]
+		},
+		"week15":  {
+			"mondayType": ["ConceptBaseDonnee"],
+			"mondayTime": [],
+			"mondayDuration": ["5"],
+			"tuesdayType": ["ProgObject"],
+			"tuesdayTime": [],
+			"wednesdayType": ["ConceptBaseDonnee","systemExploitation2"],
+			"wednesdayDuration": ["1.5"],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": ["ConceptBaseDonnee","systemExploitation2"],
+			"fridayDuration": ["1.5"],
+			"startingDate": ["2022","05","30"]
+		},
+		"week16":  {
+			"mondayType": ["ConceptBaseDonnee"],
+			"mondayTime": [],
+			"mondayDuration": ["5"],
+			"tuesdayType": ["ProgObject"],
+			"tuesdayTime": [],
+			"wednesdayType": ["systemExploitation2"],
+			"wednesdayTime": [],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": ["systemExploitation2"],
+			"fridayTime": [],
+			"startingDate": ["2022","06","06"]
+		},
+		"week17":  {
+			"mondayType": ["ConceptBaseDonnee"],
+			"mondayTime": [],
+			"mondayDuration": [],
+			"mondayDuration": ["5"],
+			"tuesdayType": ["ProgObject"],
+			"tuesdayTime": [],
+			"wednesdayType": ["systemExploitation2"],
+			"wednesdayTime": [],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": ["systemExploitation2"],
+			"fridayDuration": ["3"],
+			"fridayTime": [],
+			"startingDate": ["2022","06","13"]
+		},
+		"week18":  {
+			"mondayType": [],
+			"mondayTime": [],
+			"mondayDuration": [],
+			"tuesdayType": ["ProgObject"],
+			"tuesdayTime": [],
+			"wednesdayType": ["ConceptBaseDonnee"],
+			"wednesdayTime": [],
+			"wednesdayDuration": ["5"],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": [],
+			"fridayTime": [],
+			"startingDate": ["2022","06","20"]
+		},
+		"week19":  {
+			"mondayType": ["ConceptBaseDonnee"],
+			"mondayTime": [],
+			"mondayDuration": ["5"],
+			"tuesdayType": ["ProgObject"],
+			"tuesdayTime": [],
+			"wednesdayType": ["ConceptBaseDonnee"],
+			"wednesdayTime": [],
+			"wednesdayDuration": ["5"],
+			"thursdayType": ["ProgObject"],
+			"thursdayTime": [],
+			"fridayType": [],
+			"fridayTime": [],
+			"startingDate": ["2022","06","27"]
+		}
+
+	},
+	"classType": {
+		"math1": {
+			"name": "Mathématiques appliquées à l'informatique",
+			"teacher": "David Racicot-Desloges",
+			"duration" : 2.5,
+			"startTime" : ["17","00"]
+		},
+		"systemExploitation1-1": {
+			"name": "Système d'exploitation 1",
+			"teacher": "Said Kenniche",
+			"duration" : 5,
+			"startTime" : ["17","00"]
+		},
+		"systemExploitation1-2": {
+			"name": "Système d'exploitation 1",
+			"teacher": "Said Kenniche",
+			"duration" : 2.5,
+			"startTime" : ["19","30"]
+		},
+		"Algo1": {
+			"name": "Algorithmes et programmation structurée",
+			"teacher": "Mathieu Lavallée",
+			"duration" : 5,
+			"startTime" : ["17","00"]
+		},
+		"Algo2": {
+			"name": "Algorithmes et programmation structurée",
+			"teacher": "Mathieu Lavallée",
+			"duration" : 4.5,
+			"startTime" : ["17","30"]
+		},
+		"ProgObject": {
+			"name": "Concepts de la programmation orientée objet",
+			"teacher": "Amine Fahmi",
+			"duration" : 5,
+			"startTime" : ["17","00"]
+		},
+		"systemExploitation2": {
+			"name": "Système d'exploitation 2",
+			"teacher": "Ricker Alcindor",
+			"duration" : 3.5,
+			"startTime" : ["18","30"]
+		},
+		"ConceptBaseDonnee": {
+			"name": "Conception et exploitation de bases de données",
+			"teacher": "Lazar",
+			"duration" : 4.5,
+			"startTime" : ["17","00"]
+		}
+	}	
+}
